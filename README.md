@@ -40,5 +40,3 @@ The Lane Line Detection pipeline uses:
 5. Use **Hough Line Transform** to detect lane lines.  
 6. Post-process and overlay the detected lanes on the original frame.  
 7. Display the output in real time.  
-git clone https://github.com/yourusername/lane-line-detection-system.git
-cd lane-line-detection-system
