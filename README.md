@@ -1,4 +1,4 @@
-# Lane Line Detection System using Computer Vision and OpenCV
+# Lane Line Detection System 
 
 ## 📌 Project Overview  
 This project focuses on developing a **Lane Line Detection System** using **Computer Vision techniques with OpenCV** in Python. The system aims to accurately **detect and track lane lines** from road images and real-time video streams, thereby assisting in **road safety** and forming a core component of **autonomous driving** and **driver assistance systems (ADAS)**.  
